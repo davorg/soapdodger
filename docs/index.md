@@ -1,5 +1,6 @@
 ---
 description: \<SOAP/> dodger - Friends don't let friends use \<SOAP/>
+image: https://soapdodger.website/imgs/soapdodger.png
 ---
 
 # \<SOAP/> dodger
