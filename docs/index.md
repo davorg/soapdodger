@@ -8,3 +8,8 @@ web services.
 
 If you'd like the world to know that you're a \<SOAP/> dodger, then
 please [buy a t-shirt](https://shop.spreadshirt.co.uk/davorg/soap?q=T535749).
+
+<hr>
+
+Made by <a href="https://twitter.com/davorg">@davorg</a> /
+Code on <a href="https://github.com/davorg/soapdodger/">GitHub</a>
